@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftzdog&layout=compact&show_icons=true&theme=solarized-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjleyva&layout=compact&show_icons=true&theme=solarized-dark)
 
 ![RJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjleyva&show_icons=true&theme=solarized-dark)
 
