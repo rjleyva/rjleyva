@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">
-    I'm RJ, a consultant by day, developer at heart.
+    I'm RJ, a consultant by day, a developer at heart.
 </h3>
 
 <span>
