@@ -2,9 +2,7 @@
 
 `Solutions Consultant/Digital Enthusiast`
 
-I am a Solutions Consultant with a passion for problem solving and a love for technology. My journey into coding started with my love for video games. I’ve always dreamed of creating my own game like DOTA.
-One day, I decided to switch things up and buy a Mac. That's when things took an interesting turn, I couldn't play Dota on it! Frustrated, I started looking for ways to get around that, which led me to explore Mac and terminal customization through YouTube.
-That rabbit hole quickly opened up the world of front-end development. I’m excited to keep learning and applying my skills both professionally and personally.
+#### I am a Solutions Consultant with a passion for problem solving and a love for technology. My journey into coding started with my love for video games. I’ve always dreamed of creating my own game like DOTA. One day, I decided to switch things up and buy a Mac. That's when things took an interesting turn, I couldn't play Dota on it! Frustrated, I started looking for ways to get around that, which led me to explore Mac and terminal customization through YouTube. That rabbit hole quickly opened up the world of front-end development. I’m excited to keep learning and applying my skills both professionally and personally.
 
 ## Tech Stack
 
